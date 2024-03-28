@@ -6,49 +6,53 @@ const containerTag = document.getElementsByClassName("iphoneContainer")[0];
 
 const iphoneContainer = [
   {
-    imageSrc: "../image/iphone14promax-puple.png",
+    imageSrc: "https://thuta4.github.io/Apple/image/iphone14promax-puple.png",
     test: "I phone 14 pro max",
     star: randomfunction(5),
     price: "USD 805$",
   },
   {
-    imageSrc: "../image/iphone14promax-gold.png",
+    imageSrc: "https://thuta4.github.io/Apple/image/iphone14promax-gold.png",
     test: "I phone 14 pro max",
     star: randomfunction(5),
     price: "USD 805$",
   },
   {
-    imageSrc: "../image/i[hone14promax-Space-Black.png",
+    imageSrc:
+      "https://thuta4.github.io/Apple/image/i[hone14promax-Space-Black.png",
     test: "I phone 14 pro max",
     star: randomfunction(5),
     price: "USD 805$",
   },
   {
-    imageSrc: "../image/iphone15promax-black-titanium.png",
+    imageSrc:
+      "https://thuta4.github.io/Apple/image/iphone15promax-black-titanium.png",
     test: "I phone 15 pro max",
     star: randomfunction(5),
     price: "USD 1199$",
   },
   {
-    imageSrc: "../image/iphone15promax-natural-titanium.png",
+    imageSrc:
+      "https://thuta4.github.io/Apple/image/iphone15promax-natural-titanium.png",
     test: "I phone 15 pro max",
     star: randomfunction(5),
     price: "USD 1199$",
   },
   {
-    imageSrc: "../image/iphone15promax-spaceblue.png",
+    imageSrc:
+      "https://thuta4.github.io/Apple/image/iphone15promax-spaceblue.png",
     test: "I phone 15 pro max",
     star: randomfunction(5),
     price: "USD 1199$",
   },
   {
-    imageSrc: "../image/iphone15promax-white.png",
+    imageSrc: "https://thuta4.github.io/Apple/image/iphone15promax-white.png",
     test: "I phone 15 pro max",
     star: randomfunction(5),
     price: "USD 1199$",
   },
   {
-    imageSrc: "../image/iphone15promax-white.png",
+    imageSrc: "https://thuta4.github.io/Apple/image/iphone15promax-white.png",
     test: "I phone 15 pro max",
     star: randomfunction(5),
     price: "USD 1199$",
