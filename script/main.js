@@ -58,6 +58,7 @@ const iphoneContainer = [
     price: "USD 1199$",
   },
 ];
+//
 const starArray = [1, 2, 3, 4, 5];
 
 iphoneContainer.map((data, index) => {
